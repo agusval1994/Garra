@@ -6,4 +6,4 @@ Juego de la Garra hecho con Unity
 
 ![Garra Video](https://user-images.githubusercontent.com/31045702/116763287-a8425a80-a9f3-11eb-84ce-917c03d356c5.gif)
 
- <a href="https://drive.google.com/file/d/1X8BFNnJ4Hfy9bHsHGaVADsLb-nEPCtwp/view?usp=sharing" download>Descargar APK</a>
+ <a href="https://drive.google.com/drive/folders/1SziyWFrBfABEYzOFdEUpXNcM8GSXc-ct?usp=sharing" download>Descargar APK</a>
